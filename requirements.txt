@@ -1,0 +1,4 @@
+Flask
+docx
+pdfminer.six
+openpyxl
